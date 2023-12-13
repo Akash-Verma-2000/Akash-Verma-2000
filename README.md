@@ -1,5 +1,4 @@
-![GitHub Banner](/images/GitHub-banner.jpg "GitHub Banner")
-
+![GitHub Banner]( https://www.canva.com/design/DAF22L7Qx-s/Gcsvg8fD4fCbHM3PqwdqiA/view?utm_content=DAF22L7Qx-s&utm_campaign=designshare&utm_medium=link&utm_source=editor "GitHub Banner")
 
 # Hi there 👋, I'm Akash Verma!
 
