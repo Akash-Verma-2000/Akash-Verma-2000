@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Akash Verma!
 
-I speak the language of both servers and browsers - Full Stack web Developer is here.
+I speak the language of both servers and browsers - The **full-Stack web Developer** is here.
 
 
  ## Skills
