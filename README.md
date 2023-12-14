@@ -22,15 +22,13 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 
  - CSV Upload **[Visit](https://github.com/Akash-Verma-2000/csv-upload)**.
 
- - Postaway-2.0.0 **[Visit](https://github.com/Akash-Verma-2000/postaway-2.0.0)**.
-
- - Easily Job Portal **[Visit](https://github.com/Akash-Verma-2000/Easily-Job-portal)**.
-
- - Easily Job Portal **[Visit](https://github.com/Akash-Verma-2000/Easily-Job-portal)**.
+ - Habit Tracker **[Visit](https://github.com/Akash-Verma-2000/Habit-Tracker)**.
 
  - E-Commerce-API **[Visit](https://github.com/Akash-Verma-2000/E-Commerce-API)**.
 
- - Habit Tracker **[Visit](https://github.com/Akash-Verma-2000/Habit-Tracker)**.
+ - Easily Job Portal **[Visit](https://github.com/Akash-Verma-2000/Easily-Job-portal)**.
+
+ - Postaway-2.0.0 **[Visit](https://github.com/Akash-Verma-2000/postaway-2.0.0)**.
 
 
 
