@@ -18,6 +18,22 @@ I speak the language of both servers and browsers - The **full-Stack web Develop
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
+## Featured Repositories
+
+ - CSV Upload **[Visit](https://github.com/Akash-Verma-2000/csv-upload)**.
+
+ - Postaway-2.0.0 **[Visit](https://github.com/Akash-Verma-2000/postaway-2.0.0)**.
+
+ - Easily Job Portal **[Visit](https://github.com/Akash-Verma-2000/Easily-Job-portal)**.
+
+ - Easily Job Portal **[Visit](https://github.com/Akash-Verma-2000/Easily-Job-portal)**.
+
+ - E-Commerce-API **[Visit](https://github.com/Akash-Verma-2000/E-Commerce-API)**.
+
+ - Habit Tracker **[Visit](https://github.com/Akash-Verma-2000/Habit-Tracker)**.
+
+
+
 ## Echoes of Syntax: Predominant Tongues
 
 
